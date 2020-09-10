@@ -1,0 +1,7 @@
+Below are the versions for programs on my system:
+-------------------------------------------------
+Python          3.8.5
+Django          3.1.0
+pymongo         3.11.0
+pip             20.1.1
+-------------------------------------------------

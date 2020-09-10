@@ -2,7 +2,7 @@
 
 Please make sure of all the imports being installed on the system beforehand, imports.txt contains a list of all such imports required.
 
-Execute the following command from the directory containing "manage.py" :
+Execute the following command from the directory containing "manage.py" :  (Note: WINDOWS terminal command)
                                                                            python manage.py runserver
                                                                           
 Now that we have the localserver running, browsing to the homepage would load all the (3) templates into the database.

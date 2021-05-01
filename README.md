@@ -15,4 +15,4 @@ This file contains some unit test cases.
 The project can be tested by executing:
                                         python manage.py test Privado_Hitesh
 
-firstName first_boy_name
+firstName

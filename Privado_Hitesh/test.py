@@ -28,6 +28,8 @@ class GetTest(TestCase):
     @classmethod
     def tearDownClass(cls):
         pass
+    
+# comment to test hook
 
 class PostTest(TestCase):
     @classmethod

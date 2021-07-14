@@ -3,3 +3,4 @@ Make sure to install the following imports:
 -pymongo
 -json       (comes built-in with python3)
 -----------------------------
+salary = 100

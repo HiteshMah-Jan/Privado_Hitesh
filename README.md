@@ -3,8 +3,8 @@
 Please make sure of all the imports being installed on the system beforehand, imports.txt contains a list of all such imports required.
 
 Execute the following command from the directory containing "manage.py" :  (Note: WINDOWS terminal command)
-                                                                           python manage.py runserver
-                                                                          
+                                                                           python manage.py runserveraaaa
+                                                                a          
 Now that we have the localserver running, browsing to the homepage would load all the (3) templates into the database.
 
 We can now give in POST or GET requests by executing a curl command as:  (I just used "Postman" instead. Really handy)
